@@ -1,1 +1,16 @@
-programs on java 
+HOW TO PRINT HELLO WORLD IN JAVA
+
+public class App{
+    public static void main(String[] args){
+    System.out.println("Hello ,world");
+    System.out.println("Hey,I am learning java");
+    System.out.print("My name is subham");
+    String myneighbour="surya";
+    var age=23;
+    System.out.println("sarkar");
+    System.out.println("My age is=21");
+    System.out.println("I AM ADULT");
+    System.out.println("My height is 5.6");
+
+}
+}
