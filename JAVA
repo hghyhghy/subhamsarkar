@@ -14,3 +14,17 @@ public class App{
 
 }
 }
+
+
+HOW TO FIND LENGHT
+
+public class App1 {
+    public static void main(String[] args){
+        String  x ="abhishek";
+        System.out.println(x.length());
+    }
+}
+
+PS C:\Users\Subham\Desktop\visual studio code for java\MYPROJECTONJAVA>  c:; cd 'c:\Users\Subham\Desktop\visual studio code for java\MYPROJECTONJAVA'; & 'C:\Program Files\Java\jdk-20\bin\java.exe' '--enable-preview' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'C:\Users\Subham\Desktop\visual studio code for java\MYPROJECTONJAVA\bin' 'App1' 
+8 : OUTPUT
+PS C:\Users\Subham\Desktop\visual studio code for java\MYPROJECTONJAVA> 
