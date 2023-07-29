@@ -46,8 +46,23 @@ public class App1 {
 PS C:\Users\Subham\Desktop\visual studio code for java\MYPROJECTONJAVA>  c:; cd 'c:\Users\Subham\Desktop\visual studio code for java\MYPROJECTONJAVA'; & 'C:\Program Files\Java\jdk-20\bin\java.exe' '--enable-preview' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'C:\Users\Subham\Desktop\visual studio code for java\MYPROJECTONJAVA\bin' 'App1'
 SUBHAMSARKAR
 
+FINDING CHARATER AT ANY INDEX IN A STRING
 
 
+public class App1 {
+    public static void main(String[] args){
+        // charAt
+        String name1="Subham";
+        String name2="Sarkar";
+
+        System.out.println(name1.charAt(1));
+        System.out.println(name2.charAt(2));
+       
+    }
+}
+PS C:\Users\Subham\Desktop\visual studio code for java\MYPROJECTONJAVA>  c:; cd 'c:\Users\Subham\Desktop\visual studio code for java\MYPROJECTONJAVA'; & 'C:\Program Files\Java\jdk-20\bin\java.exe' '--enable-preview' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'C:\Users\Subham\Desktop\visual studio code for java\MYPROJECTONJAVA\bin' 'App1' 
+u
+r
 
 
 
