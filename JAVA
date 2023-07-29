@@ -16,7 +16,7 @@ public class App{
 }
 
 
-HOW TO FIND LENGHT
+HOW TO FIND LENGHT OF A STRING 
 
 public class App1 {
     public static void main(String[] args){
@@ -28,3 +28,31 @@ public class App1 {
 PS C:\Users\Subham\Desktop\visual studio code for java\MYPROJECTONJAVA>  c:; cd 'c:\Users\Subham\Desktop\visual studio code for java\MYPROJECTONJAVA'; & 'C:\Program Files\Java\jdk-20\bin\java.exe' '--enable-preview' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'C:\Users\Subham\Desktop\visual studio code for java\MYPROJECTONJAVA\bin' 'App1' 
 8 : OUTPUT
 PS C:\Users\Subham\Desktop\visual studio code for java\MYPROJECTONJAVA> 
+
+
+JAVA PROGRAM TO ADD TWO STRINGS 
+
+
+public class App1 {
+    public static void main(String[] args){
+        String  name1 ="SUBHAM";
+        String  name2 ="SARKAR";
+        String  name3=name1+name2;
+        System.out.println(name3);
+    }
+}
+
+
+PS C:\Users\Subham\Desktop\visual studio code for java\MYPROJECTONJAVA>  c:; cd 'c:\Users\Subham\Desktop\visual studio code for java\MYPROJECTONJAVA'; & 'C:\Program Files\Java\jdk-20\bin\java.exe' '--enable-preview' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'C:\Users\Subham\Desktop\visual studio code for java\MYPROJECTONJAVA\bin' 'App1'
+SUBHAMSARKAR
+
+
+
+
+
+
+
+
+
+
+
