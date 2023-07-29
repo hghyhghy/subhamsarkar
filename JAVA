@@ -1,4 +1,4 @@
-HOW TO PRINT HELLO WORLD IN JAVA
+>>HOW TO PRINT HELLO WORLD IN JAVA
 
 public class App{
     public static void main(String[] args){
@@ -16,7 +16,7 @@ public class App{
 }
 
 
-HOW TO FIND LENGHT OF A STRING 
+>>HOW TO FIND LENGHT OF A STRING 
 
 public class App1 {
     public static void main(String[] args){
@@ -30,7 +30,7 @@ PS C:\Users\Subham\Desktop\visual studio code for java\MYPROJECTONJAVA>  c:; cd 
 PS C:\Users\Subham\Desktop\visual studio code for java\MYPROJECTONJAVA> 
 
 
-JAVA PROGRAM TO ADD TWO STRINGS 
+>>JAVA PROGRAM TO ADD TWO STRINGS 
 
 
 public class App1 {
@@ -46,7 +46,7 @@ public class App1 {
 PS C:\Users\Subham\Desktop\visual studio code for java\MYPROJECTONJAVA>  c:; cd 'c:\Users\Subham\Desktop\visual studio code for java\MYPROJECTONJAVA'; & 'C:\Program Files\Java\jdk-20\bin\java.exe' '--enable-preview' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'C:\Users\Subham\Desktop\visual studio code for java\MYPROJECTONJAVA\bin' 'App1'
 SUBHAMSARKAR
 
-FINDING CHARATER AT ANY INDEX IN A STRING
+>>FINDING CHARATER AT ANY INDEX IN A STRING
 
 
 public class App1 {
@@ -64,6 +64,19 @@ PS C:\Users\Subham\Desktop\visual studio code for java\MYPROJECTONJAVA>  c:; cd 
 u
 r
 
+>>PROGRAM TO REPLACE CHARACTER
+
+
+
+public class App1 {
+    public static void main(String[] args){
+        // charAt
+        //replace
+        String name1="subham";
+        String name2= name1.replace('s','t');
+       System.out.println(name2);
+    }
+}
 
 
 
