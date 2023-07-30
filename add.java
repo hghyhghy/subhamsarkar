@@ -19,8 +19,8 @@ public class add{
     int first=45;
     int second=34;
 
-    int substraction=first-second;
+    int addition=first+second;
 
-    System.out.println(substraction);
+    System.out.println(addition);
 }
 }
