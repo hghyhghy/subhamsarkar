@@ -12,9 +12,9 @@ public class mainjava{
 
     
 
-        //System.out.println(age);
+        System.out.println(age);(//)
 
-        //int age =sc.nextInt();
+        int age =sc.nextInt();(//)
         int votingage=18;
 
         if(age>=votingage)
