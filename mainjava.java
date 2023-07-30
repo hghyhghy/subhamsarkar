@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class mainjava{
     
     public static void main(String[] args){
-        //how ro take input in java
+        //how to take input in java
         
         Scanner sc= new Scanner(System.in);
 
