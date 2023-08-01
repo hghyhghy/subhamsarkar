@@ -15,10 +15,10 @@ public class topper
 
 
         int marks1= sc.nextInt();
-       //int marks2= sc.nextInt();
-       // int marks3= sc.nextInt();
-       // int marks4= sc.nextInt();
-       // int marks5= sc.nextInt();
+        int marks2= sc.nextInt();
+        int marks3= sc.nextInt();
+        int marks4= sc.nextInt();
+        int marks5= sc.nextInt();
 
 if(marks1>50&&marks1<70)
 {
