@@ -30,3 +30,15 @@ public class pattern0 {
 
     }
 }
+
+
+OUTPUT
+
+
+
+S
+SU
+SUB
+SUBH
+SUBHA
+SUBHAM
