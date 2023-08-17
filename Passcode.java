@@ -136,3 +136,39 @@ System.out.println( "enter your MagicNumber");
   }
   
 }
+
+
+
+
+OUTPUT (1)
+
+enter your MagicNumber
+010
+enter new pin
+123456
+SYSTEM PASSCODE IS 711
+the password of the system is eDgFTf
+the new pin of the sysytem is123456
+711
+ACCESS PERMISSION GIVEN!! welcome to DESKTOP 15A2E:
+
+
+OUTPUT(2)
+
+
+enter your MagicNumber
+010
+enter new pin
+12345  
+SYSTEM PASSCODE IS 893
+the password of the system is eDgFTf
+the new pin of the sysytem is12345
+894
+ACCESS DENIED! your session has been terminated by internal antivirus:
+xxxx
+
+
+
+   
+   
+   
