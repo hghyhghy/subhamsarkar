@@ -67,19 +67,17 @@ public class Collectionstack
 
 
 
-
-
-    
-
-
-
-
-    
-
-    
-
-
   }
 
 
 }
+
+OUTPUT:-
+
+
+is the stack empty true
+the elements are [23, 50, 100, 2000, 20]
+is the stack is empty false
+the result is  [23, 50, 100]
+the element at the top of the stack is  100
+[23, 50, 100]
